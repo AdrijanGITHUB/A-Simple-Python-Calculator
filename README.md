@@ -1,2 +1,2 @@
 # A-Simple-Python-Calculator
-a literal calculator.
+a literal calculator. (And a colorized one!)
