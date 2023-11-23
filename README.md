@@ -1,5 +1,5 @@
 # A-Simple-Python-Calculator
-a literal calculator. (And a colorized one!)
+literal calculators...
 
 And no, it is not a virus, it is a calculator i made because im bored as fuck. you can scan it with an antivirus, or with https://www.virustotal.com/
 if it does detect like its a virus, well its false and i dont know why, if you dont trust it then dont open it i guess.
